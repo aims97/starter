@@ -26,7 +26,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started with AssePass",
+      "group": "Get Started with AssetPass",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
@@ -44,7 +44,9 @@
         "api-reference/actions/get-apiactions-",
         "api-reference/actions/patch-apiactions-",
 
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/delete",
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create"
       ]
     }
   ],
